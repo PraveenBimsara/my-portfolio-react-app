@@ -17,6 +17,8 @@ const Services_Data = [
     s_desc:
       "Creating intuitive and engaging applications for both iOS and Android platforms. Utilizing the latest technologies and frameworks like Flutter and React Native, I deliver high-quality, responsive, and visually appealing mobile experiences.",
   },
+  
+  
 ];
 
 export default Services_Data;
