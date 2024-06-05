@@ -4,6 +4,10 @@ import theme_pattern from '../../assets/theme_pattern.svg'
 import mail_icon from '../../assets/mail_icon.svg'
 import location_icon from '../../assets/location_icon.svg'
 import call_icon from '../../assets/call_icon.svg'
+import facebook_icon from '../../assets/facebook.png'
+import linkedin_icon from '../../assets/linkedin.png'
+import github_icon from '../../assets/github.png'
+
 
 
 
@@ -30,6 +34,12 @@ const Contact = () => {
                     </div>
 
                 </div>
+                <div className="social-icons">
+                    <a href='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL'><img src={facebook_icon} alt='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL'/></a>
+                    <a href='https://www.linkedin.com/in/praveen-bimsara-8aa43b227/'><img src={linkedin_icon} alt=''/></a>
+                    < a href='https://github.com/PraveenBimsara'><img src={github_icon} alt=''/></a>
+                </div>
+                
             </div>
             <form className="contact-right">
                 <label htmlFor="">Your Name</label>
