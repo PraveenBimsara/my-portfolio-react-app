@@ -19,9 +19,9 @@ const Services_Data = [
   },
   {
     s_no: "04",
-    s_name: "Backend Development",
+    s_name: "Lead In Frontend",
     s_desc:
-      "I also have experience in backend development using Firebase, Node.js, and MongoDB.",
+      "As a lead frontend developer, I bring a wealth of experience and expertise to the table, guiding projects from conception to execution with a keen focus on delivering exceptional user experiences. ",
   },
   {
     s_no: "05",

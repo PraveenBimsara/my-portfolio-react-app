@@ -7,9 +7,9 @@ const Hero = () => {
   return (
     <div id="home" className="hero">
       <img src={profile_img} alt="" className="pic" />
-      <h1><span>I'm Praveen Bimsara,</span> frontend developer based in Sri Lanka.</h1>
+      <h1><span>I'm Praveen Bimsara,</span> fullstack developer based in Sri Lanka.</h1>
       <p>
-        I am a Passionate frontend developer with a keen eye for design and a commitment to crafting seamless user experiences.
+        I am a dedicated full-stack developer with a passion for creating dynamic and responsive web applications and mobile applications. My expertise spans both front-end and back-end development, allowing me to bring complete solutions to life from concept to deployment.
       </p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink></div>
