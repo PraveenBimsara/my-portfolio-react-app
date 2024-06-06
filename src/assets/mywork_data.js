@@ -2,6 +2,8 @@ import project1_img from '../assets/project 1.jpg'
 import project2_img from '../assets/project 2.jpg'
 import project3_img from '../assets/project 3.jpg'
 import project4_img from '../assets/project 4.png'
+import project5_img from '../assets/project 5.png'
+
 
 
 const mywork_data = [
@@ -24,6 +26,11 @@ const mywork_data = [
         w_no:4,
         w_name:"Shopping Mobile App - This is a E commerce app for sale shoes items.",
         w_img:project4_img
+    },
+    {
+        w_no:5,
+        w_name:"Food Delivering Web App - Through this project, I built a robust application that offers a smooth and engaging user experience, leveraging the power of React JS to create a responsive and interactive platform.",
+        w_img:project5_img
     },
     
 ]
