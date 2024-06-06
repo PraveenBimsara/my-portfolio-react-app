@@ -17,7 +17,24 @@ const Services_Data = [
     s_desc:
       "Creating intuitive and engaging applications for both iOS and Android platforms. Utilizing the latest technologies and frameworks like Flutter and React Native, I deliver high-quality, responsive, and visually appealing mobile experiences.",
   },
-  
+  {
+    s_no: "04",
+    s_name: "Backend Development",
+    s_desc:
+      "I also have experience in backend development using Firebase, Node.js, and MongoDB.",
+  },
+  {
+    s_no: "05",
+    s_name: "Communication Skills",
+    s_desc:
+      "I offer strong communication skills, ensuring clear and effective collaboration on all projects.",
+  },
+  {
+    s_no: "06",
+    s_name: "Teamwork & Time Management",
+    s_desc:
+      "In addition to my technical skills, I excel in teamwork and time management, ensuring projects are completed efficiently and collaboratively.",
+  },
   
 ];
 

@@ -59,9 +59,9 @@ const Contact = () => {
 
                 </div>
                 <div className="social-icons">
-                    <a href='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL'><img src={facebook_icon} alt='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL'/></a>
-                    <a href='https://www.linkedin.com/in/praveen-bimsara-8aa43b227/'><img src={linkedin_icon} alt=''/></a>
-                    < a href='https://github.com/PraveenBimsara'><img src={github_icon} alt=''/></a>
+                    <a href='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL' target="_blank" rel="noopener noreferrer"><img src={facebook_icon} alt='https://www.facebook.com/praveen.desilva.562?mibextid=ZbWKwL'/></a>
+                    <a href='https://www.linkedin.com/in/praveen-bimsara-8aa43b227/' target="_blank" rel="noopener noreferrer"><img src={linkedin_icon} alt=''/></a>
+                    < a href='https://github.com/PraveenBimsara' target="_blank" rel="noopener noreferrer"><img src={github_icon} alt=''/></a>
                 </div>
                 
             </div>
