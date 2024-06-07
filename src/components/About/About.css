@@ -69,7 +69,7 @@
     transition: 0.3s;
 }
 
-@media(max-width:768px){
+@media(max-width:400px){
     .about{
         gap: 80px;
         margin: 50px 70px;

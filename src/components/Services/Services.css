@@ -68,7 +68,7 @@
     transition: 0.4s; 
 }
 
-@media(max-width:768px){
+@media(max-width:400px){
     .services{
         align-items: start;
         gap: 70px;
@@ -84,7 +84,7 @@
     }
     .services-format{
         gap: 20px;
-        padding: 32px;
+        padding: 2px;
     }
     .services-format h2{
         font-size: 20px;
