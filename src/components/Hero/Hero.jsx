@@ -7,13 +7,13 @@ const Hero = () => {
   return (
     <div id="home" className="hero">
       <img src={profile_img} alt="" className="pic" />
-      <h1><span>I'm Praveen Bimsara,</span> fullstack developer based in Sri Lanka.</h1>
+      <h1><span>I'm Praveen Bimsara,</span> frontend developer, backend developer & UI UX designer based in Sri Lanka.</h1>
       <p>
         I am a dedicated full-stack developer with a passion for creating dynamic and responsive web applications and mobile applications. My expertise spans both front-end and back-end development, allowing me to bring complete solutions to life from concept to deployment.
       </p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink></div>
-        <div className="hero-resume"><a href="/Praveen Bimsara Resume(Software Engineer).pdf" target="_blank" rel="noopener noreferrer" alt=''>My Resume</a></div>
+        <div className="hero-resume"><a href="/Praveen Bimsara Resume(Software Engineer_Intern).pdf" target="_blank" rel="noopener noreferrer" alt=''>My Resume</a></div>
       </div>
     </div>
   );
